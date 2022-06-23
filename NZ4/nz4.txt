@@ -1,0 +1,15 @@
+U bilo kojem programskom jeziku napraviti igru IKS-OKS za jednog igrača protiv računala po slijedećim pravilima:
+
+- uvijek prvi igra igrač tako da unosi broj od 1 do 9 koji predstavlja poziciju u 3x3 matrici i igrač je X
+
+- nakon igrača igra računalo i stavlja O na slučajno polje od 1 do 9
+
+- i kod igrača i kod računala voditi računa da se ne može odabrati polje koje je već zauzeto
+
+- nakon svakog poteza iscrtati tablu 3x3 s unešenim X i O, te provjeriti ako je netko pobjedio i u tome slučaju zaustaviti igru i ispisati tko je pobjednik. Ako igra dođe do 9. poteza i nitko nije pobijedio, onda ispisati da je neriješeno
+
+- pobjednik je onaj tko ima 3 X-a ili 3 O-a u nizu vodoravno, horizontalno ili dijagonalno
+
+Ovaj program može biti u tekstualnom načinu, ali nije zabranjeno ni koristiti grafički prikaz.
+
+/* Nagradni zadatak - Algoritmi i strukture podataka */
