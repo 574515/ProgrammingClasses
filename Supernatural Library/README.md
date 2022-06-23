@@ -6,7 +6,7 @@
 
 ## Visual Aids
 
-![](<http://www.thecinemalaser.com/wp-content/uploads/2019/02/Movie-Review-Supernatural.jpg> "Crowley, Dean, Sam, Castiel", "Crowley, Dean, Sam, Castiel")
+![](<http://www.thecinemalaser.com/wp-content/uploads/2019/02/Movie-Review-Supernatural.jpg> "Crowley, Dean, Sam, Castiel")
 
 ## "[_Carry On Wayward Son_](https://www.youtube.com/watch?v=FD5VUPwJ9-0 "SPOILER ALERT!")" a.k.a. Road so far
 
