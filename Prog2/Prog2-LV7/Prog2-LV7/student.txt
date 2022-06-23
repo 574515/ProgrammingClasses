@@ -1,0 +1,9 @@
+Student broj: 1.	Ime: A
+	Prezime: A
+
+Student broj: 2.	Ime: B
+	Prezime: B
+
+Student broj: 3.	Ime: C
+	Prezime: C
+
